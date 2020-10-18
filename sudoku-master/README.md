@@ -12,6 +12,5 @@ It uses a model-view-controller organization to
 associate a graphical display with the game. 
 
 # Author: Scott Choi, ascottychoi@gmail.com
-# Github: https://github.com/ScottyPy
 
 
